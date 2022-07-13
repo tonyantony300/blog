@@ -1,1 +1,1 @@
-Sample files
+Sample blog comment section mockup
